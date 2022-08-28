@@ -11,4 +11,6 @@
 /RocketLanding.Program/obj/
 /RocketLanding.Library/.vs
 /RocketLanding.Library/.idea/.idea.RocketLanding.Program/.idea
-/RocketLanding.Library/bin/Debug/netcoreapp3.1
+/RocketLanding.Library/bin/
+/RocketLanding.Library/obj/
+/RocketLanding.Library/Debug/
