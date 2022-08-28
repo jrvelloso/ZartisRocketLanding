@@ -2,8 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/RocketLanding.Tests/Debug/
 /RocketLanding.Tests/bin/
 /RocketLanding.Tests/obj/
 *.cache
+/RocketLanding.Program/Debug/
 /RocketLanding.Program/bin/
 /RocketLanding.Program/obj/
+/RocketLanding.Library/.vs
+/RocketLanding.Library/.idea/.idea.RocketLanding.Program/.idea
