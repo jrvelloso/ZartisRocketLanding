@@ -1,0 +1,10 @@
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\bin\Debug\netcoreapp3.1\RocketLanding.Program.deps.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\bin\Debug\netcoreapp3.1\RocketLanding.Program.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\bin\Debug\netcoreapp3.1\RocketLanding.Program.pdb
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.csproj.AssemblyReference.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.AssemblyInfoInputs.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.AssemblyInfo.cs
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.csproj.CoreCompileInputs.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\obj\Debug\netcoreapp3.1\RocketLanding.Program.pdb

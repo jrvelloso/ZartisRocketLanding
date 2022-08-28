@@ -1,0 +1,8 @@
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.deps.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Library\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.AssemblyInfoInputs.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.AssemblyInfo.cs
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.csproj.CopyComplete
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Library\Debug\netcoreapp3.1\RocketLanding.Library.dll

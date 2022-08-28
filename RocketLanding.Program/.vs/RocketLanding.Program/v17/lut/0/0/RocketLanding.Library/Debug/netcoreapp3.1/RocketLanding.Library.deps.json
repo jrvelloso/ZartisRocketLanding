@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RocketLanding.Library/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.2.1",
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime": "17.0.0.0"
+        },
+        "runtime": {
+          "RocketLanding.Library.dll": {}
+        }
+      },
+      "FluentValidation/11.2.1": {
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.2.1.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/17.0.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll": {
+            "assemblyVersion": "17.0.0.0",
+            "fileVersion": "17.0.21.56703"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RocketLanding.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/11.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZrQD0TGd0mHqf/zErZOEaba8cBeInaJj02nqinO+0La3uE08sJ5ScTYqsCbdx9fLHsX8rh+5KH5RtL2eOUS+OA==",
+      "path": "fluentvalidation/11.2.1",
+      "hashPath": "fluentvalidation.11.2.1.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.LiveUnitTesting.Runtime/17.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

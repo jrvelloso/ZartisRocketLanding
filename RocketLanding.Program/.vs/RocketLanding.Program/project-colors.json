@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a155123-33e5-4ef4-899c-b9c33b6072a6": {
+      "ProjectGuid": "8a155123-33e5-4ef4-899c-b9c33b6072a6",
+      "DisplayName": "RocketLanding.Library",
+      "ColorIndex": 0
+    },
+    "7f83723e-37f0-481b-a112-232bd0b272cb": {
+      "ProjectGuid": "7f83723e-37f0-481b-a112-232bd0b272cb",
+      "DisplayName": "RocketLanding.Console",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

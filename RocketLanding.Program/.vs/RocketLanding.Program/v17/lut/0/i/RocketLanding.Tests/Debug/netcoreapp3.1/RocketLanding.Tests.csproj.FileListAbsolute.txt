@@ -1,0 +1,17 @@
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\testhost.exe
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\testhost.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.deps.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.runtimeconfig.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.runtimeconfig.dev.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.AssemblyInfoInputs.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.AssemblyInfo.cs
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.csproj.CopyComplete
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Tests\Debug\netcoreapp3.1\RocketLanding.Tests.genruntimeconfig.cache

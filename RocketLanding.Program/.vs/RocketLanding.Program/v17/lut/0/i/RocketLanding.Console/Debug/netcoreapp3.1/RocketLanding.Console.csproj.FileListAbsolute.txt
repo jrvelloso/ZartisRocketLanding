@@ -1,0 +1,12 @@
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.exe
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.deps.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.runtimeconfig.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.runtimeconfig.dev.json
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\b\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.AssemblyInfoInputs.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.AssemblyInfo.cs
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.csproj.CopyComplete
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.dll
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.genruntimeconfig.cache
+C:\Users\JR\Dropbox\Projetos\RocketLanding\RocketLanding.Program\.vs\RocketLanding.Program\v17\lut\0\i\RocketLanding.Console\Debug\netcoreapp3.1\RocketLanding.Console.csproj.AssemblyReference.cache
