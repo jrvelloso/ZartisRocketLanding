@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RocketLanding.Program\RocketLanding.Library.csproj" />
+    <ProjectReference Include="..\RocketLanding.Library\RocketLanding.Library.csproj" />
   </ItemGroup>
 
 </Project>
