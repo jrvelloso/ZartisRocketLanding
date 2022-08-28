@@ -5,3 +5,5 @@
 /RocketLanding.Tests/bin/
 /RocketLanding.Tests/obj/
 *.cache
+/RocketLanding.Program/bin/
+/RocketLanding.Program/obj/
